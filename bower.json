@@ -1,0 +1,24 @@
+{
+  "name": "Boostrap Kickstarter",
+  "version": "0.0.0",
+  "authors": [
+    "amy <yiming3478@gmail.com>"
+  ],
+  "description": "A boostrap starter template (bower + gulp + boostrap[sass])",
+  "keywords": [
+    "bootstrap",
+    "bower",
+    "gulp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.5"
+  }
+}
